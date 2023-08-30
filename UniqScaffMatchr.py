@@ -13,6 +13,8 @@
 # Zarate et al. In Prep. Differential Gene Expression of a supergene regulating \
 # social behavior in an ant (Formica neoclara). 
 
+# Authors: Daniela Zarate, PhD - UC Riverside & Stephen Brennan, UC San Diego 
+
 import os
 import argparse
 from difflib import SequenceMatcher
